@@ -5,7 +5,7 @@ Description: Bienvenue à unTill Reseller Portal !
 
 -----------
 
-Notre objectif est de vous offrir une compréhension claire de la manière d'utiliser le Portail de paiements unTill de la manière la plus efficace et confortable possible.
+Notre objectif est de vous offrir une compréhension claire de la manière d'utiliser le Portail de paiements de la manière la plus efficace et confortable possible.
 
 ## Dans ce Guide :
 
