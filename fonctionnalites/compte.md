@@ -2,6 +2,8 @@
 
 ----------
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:blue;">Utilisateur de paiements</mark></td><td></td></tr></tbody></table>
+
 La section 'Compte' du Portail de Paiements unTill est votre tableau de bord pour surveiller les détails financiers des opérations de votre compte.
 
 Dans cette section, vous pouvez basculer entre différentes périodes pour visualiser les intervalles pertinents.
