@@ -14,9 +14,10 @@ En tant qu'Utilisateur de paiements, vous devez uniquement contacter votre Reven
 
 Une fois que les terminaux sont correctement liés à l'Emplacement de paiements désignée, l'Utilisateur de paiements peut consulter les données pertinentes à leur sujet sur le Portail de paiements.
 
-La section 'Terminaux' du Portail de paiements vous permet de surveiller l'état des terminaux liés à votre localisation de paiements.
+La section 'Terminaux' du Portail de paiements vous permet de surveiller l'état des terminaux liés à votre Emplacement de paiements.
 
 Dans cette section, vous pouvez surveiller :
+
 - POIID
 - Modèle
 - N/S ('Numéro de Série')

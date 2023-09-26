@@ -16,7 +16,7 @@ Signifie la déduction des frais du montant total après le traitement de la tra
 
 **Emplacement de paiement**
 
-Signifie un espace de travail où l'Utilisateur de Paiement et le Revendeur de Paiement agissent et suivent les informations financières. L'accès au portail de paiements unTill n'est accordé à l'Utilisateur de Paiement que lorsqu'un Emplacement de Paiement est créé.
+Signifie un espace de travail où l'Utilisateur de Paiement et le Revendeur de Paiement agissent et suivent les informations financières. L'accès au Portail de paiements unTill n'est accordé à l'Utilisateur de Paiement que lorsqu'un Emplacement de Paiement est créé.
 
 ## F
 
