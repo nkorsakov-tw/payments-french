@@ -57,8 +57,8 @@ Les Utilisateurs de paiements dont le pays de résidence est les Pays-Bas doiven
 
 Après avoir terminé la division et crédité les montants sur les 'Soldes courants' respectifs, les versements peuvent être effectués. Un versement transfère de l'argent du 'Solde courant' sur la plateforme Adyen vers un compte bancaire personnel. Les versements sont automatisés pour plus de commodité et sont programmés pour des dates et heures spécifiques.
 
-* Les Utilisateurs de paiements effectuent des versements quotidiens :
-  * **Tous les jours, à 7 h**
+* Les Utilisateurs de paiements effectuent des versements :
+  * **Le quatrième jour des opérations, de 2 heures à 6 heures.**
 
 {% hint style="info" %}
 Pour plus de détails sur le traitement des versements, consultez cette page.

@@ -26,7 +26,7 @@ Voici comment fonctionne un versement :
 - Dans des délais spécifiques, cet argent est transféré du 'Solde Actuel' vers le compte bancaire de l'Utilisateur de paiements.
 - Ce mouvement d'argent s'appelle un versement.
 
-Les versements ont lieu automatiquement à la même heure chaque jour, en fonction des conditions préconfigurées. Les Utilisateurs de paiements reçoivent leurs fonds en fonction du chiffre d'affaires de la journée précédente.
+Les versements ont lieu automatiquement à la même créneau, en fonction des conditions préconfigurées. Les Utilisateurs de paiements reçoivent leurs fonds en fonction du chiffre d'affaires de la journée spécifique.
 
 ### Versement à Nouveau (Re-try Payout)
 
